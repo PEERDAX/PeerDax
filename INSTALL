@@ -1,0 +1,9 @@
+Building PeerDaxExchange
+
+See doc/readme-qt.rst for instructions on building PeerDaxExchange QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PeerDaxExchange.
+
+See doc/build-*.txt for instructions on building peerdaxexchanged,
+the intended-for-services, no-graphical-interface, reference
+implementation of PeerDaxExchange.

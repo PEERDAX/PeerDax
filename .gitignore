@@ -1,0 +1,26 @@
+src/*.exe
+src/peerdaxexchange
+src/peerdaxexchanged
+src/test_peerdaxexchange
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.peerdaxexchange
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+peerdaxexchange-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
